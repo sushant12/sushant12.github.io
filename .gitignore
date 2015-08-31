@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 _site
 .sass-cache
+=======
+node_modules/
+bower_components/
+*.log
+
+build/
+dist/
+>>>>>>> 44ee2495d42c20fa025f86c59c4a35e709dc94a0
