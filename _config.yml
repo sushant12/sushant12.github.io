@@ -4,20 +4,24 @@
 permalink:           pretty
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Sushant`s Expereince
+tagline:             'Follow me on my journey where I travel , code and hustle'
+description:         'I believe that our life is too short to not take any risks so here I will write about my trips , inspiational blogs, business , philosophy, organic farming, being resourceful'
 baseurl:             ''
 gems: [jekyll-paginate]
-paginate: 5
+paginate: 1
 paginate_path: "page:num"
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Sushant Bajracharya
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             sussyoung9@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:             0.0.1
+
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
