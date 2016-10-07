@@ -4,27 +4,26 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  None but ourselves can free our minds. - Bob Marley
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hellow, I am *Sushant Bajracharya* aka *Voyager*. On *Oct 2014*, I traveled for the first time in my life and since then I am hooked to traveling. I took my first MT Everest flight on *Jan 2015* and saw *Mt Everest*. I then decided to climb it some day. Right now it is *Oct 2016* and 20 years from now I will summit it.
 
-There are currently two themes built on Poole:
+Traveling changed my life in a good way. My life now has a purpose, a purpose to scale the tallest mountain. You see, climbing Everest is very expensive. It left me with just a choice ie I have to hustle to earn enough to supoort my dream to scale it. It aroused in me an eager want to be an entrepreneur. As of *Oct 2016*, I am currenlty being mentored by *Bhadra Ale*. I am really excited about this.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Before my first travel, I was not very adventerous but my first travel changed everything. I solo treked to *Kalinchowk* on *Sep 2015*, I was 19 then. On *Apr 2016* I solo trekked to *Annapurna Base Camp* and I am 20 now. During my travel I met a lot of people that really made a good impression in my life. I will never forget them. Wherever they are, I hope for their well being and good life.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+When I was in Junior High, I was asked to write about the difficulties in tourism in Nepal and how we can overcome it? I wrote bunch of nonsense back then but looking back at it now, I feel like I should have started traveling very early. I have some great answers for that question now.
 
-## Setup
+I grew up watching and hearing a lot of good things about first world countries. I loved the fact that they are independent from a young age. It really inspired me to be independent so at 18 I was financially semi independent and at 20 I am fully financially independent.
 
-Some fun facts about the setup of this project include:
+Besides all my love to travel and entrepreneurship, I love to code as well. I started coding at 18 and as of 2016 I am a Software Engineer(Team Lead) at *Bajra Technologies*
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+If you ask me what is the craziest thing I have done in life then it would be
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* I left a very high paying job because it was not pushing me out of my comfort zone.
+* I solo treked to Kalinchow on off season. I was the only tourist there.
 
-Thanks for reading!
+Life is full of suprises and I hope it keeps throwing these at me. It would be a good excuse to update my *About* page.
+
+Thanks for reading! Have a great day
