@@ -24,4 +24,4 @@ Few years ago, I was so depressed I found a new meaning in traveling solo but th
 * Adultery Novel by Paulo Coelho (I own this book)
 * You Can Win Book by Shiv Khera (I own this book)
 * Rich Dad Poor Dad Book by Robert Kiyosaki and Sharon Lechter
-* DotCom Secrets: The Underground Playbook for Growing Your Company Online by Russell Brunson
+* DotCom Secrets: The Underground Playbook for Growing Your Company Online by Russell Brunson (I own this book)
