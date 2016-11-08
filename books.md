@@ -13,8 +13,8 @@ Few years ago, I was so depressed I found a new meaning in traveling solo but th
 
 * Man's Search for Meaning Book by Viktor Frankl
 * How to Win Friends and Influence People Book by Dale Carnegie
-* Rukh ma paisa falcha Book by my mentor Bhadra Ale
-* Must Do It by  Mike Yonjan
+* Rukh ma paisa falcha Book by my mentor Bhadra Ale (I own this book but it is not open for lending)
+* Must Do It by  Mike Yonjan (I own this book but it is not open for lending)
 * Start With Why Book by Simon Sinek
 * Into Thin Air Book by Jon Krakauer (I own this book)
 * Into The Wild Book by Jon Krakauer (I own this book)
