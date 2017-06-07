@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               Sushant`s Wisdom
 tagline:             'Follow me on my journey where I travel , code and hustle'
-description:         'Hi there, I want to thank you from the bottom of my heart for browsing my site. You are one of the reason that keeps me motivated to wirte my blogs. I want my blogs to help others in their life. If any of my blogs really helped you, please, let me know. I would be more than happy to reply you with all of my gratitude lavishly. Again, thank you very much for browsing my site. You are awesome and have a great day'
+description:         'Hi there, thank you for browsing my site.'
 baseurl:             ''
 gems: [jekyll-paginate]
 paginate: 10
@@ -15,7 +15,7 @@ paginate_path: "page:num"
 # About/contact
 author:
   name:              Sushant Bajracharya
-  url:               https://twitter.com/mdo
+  url:               https://twitter.com/sushantbaj
   email:             sussyoung9@gmail.com
 
 # Custom vars
