@@ -7,6 +7,8 @@ title: About
   None but ourselves can free our minds. - Bob Marley
 </p>
 
+<iframe frameborder="0" height="340px" src="http://www.grasruts.com/en/projects/15/embed" width="300px" scrolling="no"></iframe>
+
 Hellow, I am *Sushant Bajracharya* aka *Voyager*. On *Oct 2014*, I traveled for the first time in my life and since then I am hooked to traveling. I took my first MT Everest flight on *Jan 2015* and saw *Mt Everest*. I then decided to climb it some day. Right now it is *Oct 2016* and 20 years from now I will summit it.
 
 Traveling changed my life in a good way. My life now has a purpose, a purpose to scale the tallest mountain. You see, climbing Everest is very expensive. It left me with just a choice ie I have to hustle to earn enough to supoort my dream to scale it. It aroused in me an eager want to be an entrepreneur. As of *Oct 2016*, I am currenlty being mentored by *Bhadra Ale*. I am really excited about this.
@@ -27,3 +29,5 @@ If you ask me what is the craziest thing I have done in life then it would be
 Life is full of suprises and I hope it keeps throwing these at me. It would be a good excuse to update my *About* page.
 
 Thanks for reading! Have a great day
+
+
