@@ -5,8 +5,8 @@ title: What I am up to?
 
 Hey yo,
 
-* Solving at least one kata in codewars.com
-* Resting my wrsit because I tore my ligament and cracked my bones.
+* Lifting weights again. No pain no gain. Ligament is healing.
+* Wokring again at a software company
 * Reading a lot
-* Trying to register Grasruts
+* Trying to get push Grasruts to success
 
