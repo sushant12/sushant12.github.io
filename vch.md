@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What I am up to?
+title: Valley Circuit Hike Odyssey
 ---
 
 Hey yo,
