@@ -8,9 +8,12 @@ title:               Sushant`s Wisdom
 tagline:             'Follow me on my journey where I travel , code and hustle'
 description:         'Hi there, thank you for browsing my site.'
 baseurl:             ''
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-seo-tag]
 paginate: 10
 paginate_path: "page:num"
+
+plugins_dir:
+  - jekyll-seo-tag
 
 # About/contact
 author:
