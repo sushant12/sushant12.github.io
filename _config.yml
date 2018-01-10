@@ -5,7 +5,7 @@ permalink:           pretty
 
 # Setup
 title:               Sushant`s Wisdom
-tagline:             'Follow me on my journey where I travel , code and hustle'
+tagline:             'A journey where I travel, code & hustle'
 description:         'Hi there, thank you for browsing my site.'
 baseurl:             ''
 gems: [jekyll-paginate, jekyll-seo-tag]
