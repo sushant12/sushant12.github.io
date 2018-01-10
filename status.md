@@ -4,8 +4,10 @@ title: What I am up to?
 ---
 
 Hey yo,
-
+#### Jan 10, 2018
 * Joined BBS at People's Campus
 * Working full time on Grasruts
-* Started a book business
+* Trying to post VCH as a test project for Grasruts
+* Working to run a book business as a side business
+* Researching on Anti Leech Socks
 
