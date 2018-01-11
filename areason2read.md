@@ -9,3 +9,5 @@ What if I tell you that I can somehow magically bring **Warren Buffet, Binod Cha
 
 
 The modern education system has turned people off from the books. The goal of A Reason 2 Read is to change that. The goal is to get people interested in reading books again.
+
+If you have any queries please either do contact us on our **social media** or email us at **sushant@areason2read.com**. You can also call us on **9813725427**
