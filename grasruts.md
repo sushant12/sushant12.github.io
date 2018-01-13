@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Grasruts
+description: A crowdfunding platform in Nepal
 ---
 
 <a href="http://www.grasruts.com" target="__blank"> ![Grasruts Logo]({{ "/assets/images/logo_insta.jpeg" | absolute_url }}) </a>

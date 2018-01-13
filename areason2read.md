@@ -1,6 +1,7 @@
 ---
 layout: page
 title: A Reason 2 Read
+description: A website that will deliver you a recommended books every month.
 ---
 
 <a href="https://www.areason2read.com" target="__blank"> ![A Reason 2 Read Logo]({{ "/assets/images/areason2read.png" | absolute_url }}) </a>

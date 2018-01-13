@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Valley Circuit Hike Odyssey
+description: I want to bring the trail that will connect the hills surrounding KTM valley in the map for hikers who wants to spend several days hiking and camping.
 ---
 
 Have you guys ever wondered how it would feel like to hike a trail that circles the KTM valley? Yes, I do too. When I hike, I always wonder where the rest of the trail will go and how far will it go? How it would feel to spend a night in the woods in the realm of nature? It amazeses me when couple of hills later I land to a different district. Just like roads in the city, the hills are connected with a trail which is seldom traveled and only known to the villagers.
