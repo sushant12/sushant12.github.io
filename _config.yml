@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               Sushant Bajracharya
 tagline:             'A journey where I travel, code & hustle'
-description:         'Sushant Bajracharya is a founder of Grasruts and founder and a sales guy at A Reason 2 Read and Anti Leech Socks'
+description:         'Sushant Bajracharya is a founder of Grasruts'
 baseurl:             ''
 gems: [jekyll-seo-tag]
 
@@ -23,6 +23,5 @@ author:
 version:             0.0.1
 
 pages_list:
-  About: '/about'
   Archive: '/archive'
   Feed: '/atom.xml'

@@ -1,18 +1,14 @@
 ---
 layout: page
-title: Ventures
 ---
-- <h1> <a href="/grasruts" target="__blank">Grasruts</a><h1> 
+<p class="message">
+  None but ourselves can free our minds. - Bob Marley
+</p>
 
-<a href="http://www.grasruts.com" target="__blank">Grasruts</a> is a crowdfunding platform for Nepal.
+**Sushant Bajracharya** is a founder of <a href="" target="__blank">Grasruts</a> 
 
-- # <a href="/areason2read" target="__blank">A Reason 2 Read</a>
+He is a business major student at **People's Campus** but he knows a thing or two about programming. He believes in having a **mentor** and look at **books** as an investment. He likes to meet new people and learn from them because he believes that **inspiration** comes from all four directions.
 
-<a href="https://www.areason2read.com" target="__blank">A Reason 2 Read</a> is a website that will deliver a recommended book every month to its subscribers.
-
-- # <a href="/anti-leech-sock" target="__blank">Anti Leech Sock</a>
-
-<a href="/anti-leech-sock" target="__blank">Anti Leech Sock</a> is a page that is dedicated on selling leech repellant sock for hikers with the phobia of leech.
 
 <!-- <div class="posts">
   {% for post in paginator.posts %}
