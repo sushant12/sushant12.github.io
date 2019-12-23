@@ -5,6 +5,10 @@ title: What I am up to?
 
 Hey yo,
 
+### Dec 23, 2019
+* Learning Elixir
+* Giving my first ruby talk on Sockets
+
 ### Oct 29, 2018
 * Deployed new website for grasruts
 * Started working as a programmer 3 months ago(a man's gotta eat)
